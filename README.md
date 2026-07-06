@@ -14,6 +14,9 @@ Tracking cells through developing embryos is a core problem in quantitative biol
 
 **Biological system:** Zebrafish embryo light-sheet fluorescence microscopy
 
+<img width="2220" height="773" alt="02_mip_44b6_0113de3b" src="https://github.com/user-attachments/assets/fc4f2a1a-9192-4173-9e6e-364a18c9e6be" />
+
+
 ---
 
 ## Architecture
