@@ -2,7 +2,7 @@
 
 A pipeline for detecting and tracking cells through 3D+time fluorescence microscopy volumes of zebrafish embryos. Given a time-series of 3D image stacks, the system produces a **tracking graph**  a set of detected cell positions (nodes) linked across time (edges), including cell division events.
 
----
+---  
 
 ## Overview
 
